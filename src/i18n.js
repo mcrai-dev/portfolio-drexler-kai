@@ -32,7 +32,7 @@ export const translations = {
       p1: "Photographe et vidéaste depuis 2014, je raconte des histoires à travers mes images, en valorisant les traditions, la culture et les émotions humaines. De la photographie culturelle au mariage, en passant par le portrait et l'événementiel, je privilégie l'authenticité de chaque instant.",
       p2: "Je cherche à créer un climat de confiance pour capturer des moments naturels et préserver des souvenirs sincères, porteurs d'histoires et d'émotions qui traversent le temps.",
       stats: [
-        { value: '2014', label: 'Début de ma pratique photo' },
+        { value: '2014', label: 'Début de ma pratique photo « pro »' },
         { value: '~30', label: 'Courts métrages produits' },
         { value: '~20', label: 'Reportages de sensibilisation' },
       ],
@@ -165,7 +165,7 @@ export const translations = {
       p1: 'A photographer and videographer since 2014, I tell stories through my images, honouring traditions, culture and human emotion. From cultural photography to weddings, portraits and events, I focus on the authenticity of every moment.',
       p2: 'I aim to build a climate of trust in order to capture natural moments and preserve sincere memories, carrying stories and emotions that stand the test of time.',
       stats: [
-        { value: '2014', label: 'Started my photography practice' },
+        { value: '2014', label: 'Started my professional photography practice' },
         { value: '~30', label: 'Short films produced' },
         { value: '~20', label: 'Awareness reports' },
       ],
@@ -270,7 +270,8 @@ export const contact = {
   email: 'drexlerkai61@gmail.com',
   phone: '+261 34 25 883 13',
   phoneHref: '+261342588313',
-  whatsapp: 'https://wa.me/261342588313',
+  whatsapp: 'https://wa.me/261325930646',
+  whatsappLabel: '+261 32 59 306 46',
 }
 
 export const partners = ['GIZ', 'FID', 'UNICEF', 'ORTB', 'Alliance Française', 'The Blueraincoat']

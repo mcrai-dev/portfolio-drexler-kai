@@ -251,7 +251,7 @@ export function Contact({ photos }) {
             <li>
               <span>{t.contact.whatsapp}</span>
               <a href={contact.whatsapp} target="_blank" rel="noreferrer">
-                {contact.phone}
+                {contact.whatsappLabel}
               </a>
             </li>
           </ul>
