@@ -1,0 +1,320 @@
+{
+ "hero": [
+  {
+   "src": "/photos/hero/hero-01.webp",
+   "thumb": "/photos/hero/hero-01-sm.webp",
+   "w": 2000,
+   "h": 1334
+  },
+  {
+   "src": "/photos/hero/hero-02.webp",
+   "thumb": "/photos/hero/hero-02-sm.webp",
+   "w": 1200,
+   "h": 1800
+  }
+ ],
+ "about": [
+  {
+   "src": "/photos/about/about-01.webp",
+   "thumb": "/photos/about/about-01-sm.webp",
+   "w": 2000,
+   "h": 1334
+  }
+ ],
+ "wedding": [
+  {
+   "src": "/photos/wedding/wedding-01.webp",
+   "thumb": "/photos/wedding/wedding-01-sm.webp",
+   "w": 1200,
+   "h": 1800
+  },
+  {
+   "src": "/photos/wedding/wedding-02.webp",
+   "thumb": "/photos/wedding/wedding-02-sm.webp",
+   "w": 1200,
+   "h": 1800
+  },
+  {
+   "src": "/photos/wedding/wedding-03.webp",
+   "thumb": "/photos/wedding/wedding-03-sm.webp",
+   "w": 1334,
+   "h": 2000
+  },
+  {
+   "src": "/photos/wedding/wedding-04.webp",
+   "thumb": "/photos/wedding/wedding-04-sm.webp",
+   "w": 1556,
+   "h": 1037
+  },
+  {
+   "src": "/photos/wedding/wedding-05.webp",
+   "thumb": "/photos/wedding/wedding-05-sm.webp",
+   "w": 1200,
+   "h": 1800
+  },
+  {
+   "src": "/photos/wedding/wedding-06.webp",
+   "thumb": "/photos/wedding/wedding-06-sm.webp",
+   "w": 1037,
+   "h": 1556
+  },
+  {
+   "src": "/photos/wedding/wedding-07.webp",
+   "thumb": "/photos/wedding/wedding-07-sm.webp",
+   "w": 1037,
+   "h": 1556
+  },
+  {
+   "src": "/photos/wedding/wedding-08.webp",
+   "thumb": "/photos/wedding/wedding-08-sm.webp",
+   "w": 1556,
+   "h": 1037
+  }
+ ],
+ "portraits": [
+  {
+   "src": "/photos/portraits/portraits-01.webp",
+   "thumb": "/photos/portraits/portraits-01-sm.webp",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "/photos/portraits/portraits-02.webp",
+   "thumb": "/photos/portraits/portraits-02-sm.webp",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "/photos/portraits/portraits-03.webp",
+   "thumb": "/photos/portraits/portraits-03-sm.webp",
+   "w": 1200,
+   "h": 1800
+  },
+  {
+   "src": "/photos/portraits/portraits-04.webp",
+   "thumb": "/photos/portraits/portraits-04-sm.webp",
+   "w": 1200,
+   "h": 1800
+  },
+  {
+   "src": "/photos/portraits/portraits-05.webp",
+   "thumb": "/photos/portraits/portraits-05-sm.webp",
+   "w": 2000,
+   "h": 1333
+  },
+  {
+   "src": "/photos/portraits/portraits-06.webp",
+   "thumb": "/photos/portraits/portraits-06-sm.webp",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "/photos/portraits/portraits-07.webp",
+   "thumb": "/photos/portraits/portraits-07-sm.webp",
+   "w": 1333,
+   "h": 2000
+  },
+  {
+   "src": "/photos/portraits/portraits-08.webp",
+   "thumb": "/photos/portraits/portraits-08-sm.webp",
+   "w": 800,
+   "h": 1200
+  },
+  {
+   "src": "/photos/portraits/portraits-09.webp",
+   "thumb": "/photos/portraits/portraits-09-sm.webp",
+   "w": 1182,
+   "h": 1814
+  },
+  {
+   "src": "/photos/portraits/portraits-10.webp",
+   "thumb": "/photos/portraits/portraits-10-sm.webp",
+   "w": 800,
+   "h": 1200
+  },
+  {
+   "src": "/photos/portraits/portraits-11.webp",
+   "thumb": "/photos/portraits/portraits-11-sm.webp",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "/photos/portraits/portraits-12.webp",
+   "thumb": "/photos/portraits/portraits-12-sm.webp",
+   "w": 800,
+   "h": 1200
+  }
+ ],
+ "silhouette": [
+  {
+   "src": "/photos/silhouette/silhouette-01.webp",
+   "thumb": "/photos/silhouette/silhouette-01-sm.webp",
+   "w": 2000,
+   "h": 1334
+  },
+  {
+   "src": "/photos/silhouette/silhouette-02.webp",
+   "thumb": "/photos/silhouette/silhouette-02-sm.webp",
+   "w": 1095,
+   "h": 1642
+  },
+  {
+   "src": "/photos/silhouette/silhouette-03.webp",
+   "thumb": "/photos/silhouette/silhouette-03-sm.webp",
+   "w": 1000,
+   "h": 1346
+  }
+ ],
+ "events": [
+  {
+   "src": "/photos/events/events-01.webp",
+   "thumb": "/photos/events/events-01-sm.webp",
+   "w": 1571,
+   "h": 1005
+  },
+  {
+   "src": "/photos/events/events-02.webp",
+   "thumb": "/photos/events/events-02-sm.webp",
+   "w": 1642,
+   "h": 1095
+  },
+  {
+   "src": "/photos/events/events-03.webp",
+   "thumb": "/photos/events/events-03-sm.webp",
+   "w": 1671,
+   "h": 1114
+  },
+  {
+   "src": "/photos/events/events-04.webp",
+   "thumb": "/photos/events/events-04-sm.webp",
+   "w": 1763,
+   "h": 1176
+  },
+  {
+   "src": "/photos/events/events-05.webp",
+   "thumb": "/photos/events/events-05-sm.webp",
+   "w": 1078,
+   "h": 597
+  }
+ ],
+ "culture": [
+  {
+   "src": "/photos/culture/culture-01.webp",
+   "thumb": "/photos/culture/culture-01-sm.webp",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "/photos/culture/culture-02.webp",
+   "thumb": "/photos/culture/culture-02-sm.webp",
+   "w": 1200,
+   "h": 1800
+  },
+  {
+   "src": "/photos/culture/culture-03.webp",
+   "thumb": "/photos/culture/culture-03-sm.webp",
+   "w": 1556,
+   "h": 1037
+  },
+  {
+   "src": "/photos/culture/culture-04.webp",
+   "thumb": "/photos/culture/culture-04-sm.webp",
+   "w": 1200,
+   "h": 800
+  },
+  {
+   "src": "/photos/culture/culture-05.webp",
+   "thumb": "/photos/culture/culture-05-sm.webp",
+   "w": 1800,
+   "h": 1200
+  }
+ ],
+ "drone": [
+  {
+   "src": "/photos/drone/drone-01.webp",
+   "thumb": "/photos/drone/drone-01-sm.webp",
+   "w": 1642,
+   "h": 924
+  },
+  {
+   "src": "/photos/drone/drone-02.webp",
+   "thumb": "/photos/drone/drone-02-sm.webp",
+   "w": 1642,
+   "h": 924
+  },
+  {
+   "src": "/photos/drone/drone-03.webp",
+   "thumb": "/photos/drone/drone-03-sm.webp",
+   "w": 1642,
+   "h": 924
+  },
+  {
+   "src": "/photos/drone/drone-04.webp",
+   "thumb": "/photos/drone/drone-04-sm.webp",
+   "w": 1642,
+   "h": 924
+  },
+  {
+   "src": "/photos/drone/drone-05.webp",
+   "thumb": "/photos/drone/drone-05-sm.webp",
+   "w": 1642,
+   "h": 924
+  },
+  {
+   "src": "/photos/drone/drone-06.webp",
+   "thumb": "/photos/drone/drone-06-sm.webp",
+   "w": 1642,
+   "h": 924
+  }
+ ],
+ "behind": [
+  {
+   "src": "/photos/behind/behind-01.webp",
+   "thumb": "/photos/behind/behind-01-sm.webp",
+   "w": 1037,
+   "h": 1556
+  },
+  {
+   "src": "/photos/behind/behind-02.webp",
+   "thumb": "/photos/behind/behind-02-sm.webp",
+   "w": 1556,
+   "h": 1037
+  },
+  {
+   "src": "/photos/behind/behind-03.webp",
+   "thumb": "/photos/behind/behind-03-sm.webp",
+   "w": 922,
+   "h": 615
+  },
+  {
+   "src": "/photos/behind/behind-04.webp",
+   "thumb": "/photos/behind/behind-04-sm.webp",
+   "w": 1556,
+   "h": 1037
+  }
+ ],
+ "vision": [
+  {
+   "src": "/photos/vision/vision-01.webp",
+   "thumb": "/photos/vision/vision-01-sm.webp",
+   "w": 1800,
+   "h": 1200
+  }
+ ],
+ "contact": [
+  {
+   "src": "/photos/contact/contact-01.webp",
+   "thumb": "/photos/contact/contact-01-sm.webp",
+   "w": 1800,
+   "h": 1200
+  }
+ ],
+ "profile": [
+  {
+   "src": "/photos/profile/drexler-kai.webp",
+   "thumb": "/photos/profile/drexler-kai.webp",
+   "w": 933,
+   "h": 1400
+  }
+ ]
+}
